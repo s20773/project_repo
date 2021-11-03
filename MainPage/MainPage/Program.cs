@@ -9,6 +9,7 @@ namespace MainPage
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello ");
             Console.WriteLine(System.DateTime.Now);
+            Console.WriteLine(System.DateTime.Now);
         }
     }
 }
